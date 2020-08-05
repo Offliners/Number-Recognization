@@ -1,6 +1,9 @@
 # Number Recognization
 to recognization with CNN model (dataset : MNIST)
 
+### CNN Model
+![CNN Model](https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png)
+
 ### Requirement
 |Package|Version|
 |-|-|
