@@ -1,4 +1,4 @@
-# Number-Recognization
+# Number Recognization
 to recognization with CNN model (dataset : MNIST)
 
 ### Requirement
