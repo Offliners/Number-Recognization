@@ -2,7 +2,7 @@
 recognize handwriting number with CNN model (dataset : MNIST)
 
 ### CNN Model
-<div align=center><img width="600" height="900" src=https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png/></div>
+<div align=center><img width="900" height="1200" src=https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png/></div>
 
 ### Requirement
 |Package|Version|
