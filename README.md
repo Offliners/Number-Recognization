@@ -9,4 +9,4 @@ to recognization with CNN model (dataset : MNIST)
 |Numpy|`1.16.2`|
 |Keras|`2.2.4`|
 |Pygame|`1.9.6`|
-|T
+|Tkinter|`8.6`|
