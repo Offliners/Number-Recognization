@@ -32,16 +32,18 @@ recognize handwriting number with CNN model (dataset : MNIST)
 |Pygame|`1.9.6`|
 |Tkinter|`8.6`|
 
-### Example
-#### Wrong
-<figure class="third">
+## Example
+### Wrong
+<figure class="half">
     <img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_28_55_prediction.png">
-    <img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_34_31_prediction.png">
     <img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_34_40_prediction.png">
 </figure>
 
-#### True
+### True
+<figure class="half">
+    <img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_28_55_prediction.png">
+    <img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_34_40_prediction.png">
+</figure>
 
-
-### Reference
+## Reference
 https://github.com/techwithtim/Number-Guesser-Neural-Net
