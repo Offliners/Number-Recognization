@@ -19,8 +19,8 @@ recognize handwriting number with CNN model (dataset : MNIST)
 4. AI will recognize the number
 5. If the number is true, it will be saved in `Image/True`. In contrast, it will be saved in `Image/Wrong`
 
-### CNN Model
-<div align=center><img width="900" height="1200" src=https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png/></div>
+### Model
+* [CNN](model/README.md)
 
 ### Requirement
 |Package|Version|
