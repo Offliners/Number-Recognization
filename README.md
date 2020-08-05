@@ -14,7 +14,7 @@ recognize handwriting number with CNN model (dataset : MNIST)
 
 ### Usage
 1. Run `main.py` to train model (also you can use the model weight that has trained)
-2. Rum `drawingBoard.py` to write a number
+2. Run `drawingBoard.py` to write a number
 3. After writing the number, press enter
 4. AI will recognize the number
 
