@@ -4,12 +4,12 @@ recognize handwriting number with CNN model (dataset : MNIST)
 ### Directory
 ```
 ├─model
-├─├─loss
-├─├─accuracy
-├─├─weight
+├─├─loss  // image of trinaing loss and validation loss
+├─├─accuracy  // image of trinaing accuracy and validation accuracy
+├─├─weight  // model weight
 ├─Image
-├─├─True
-├─├─Wrong
+├─├─True  // Identify handwriting number correctly
+├─├─Wrong  // Identify handwriting number wrongly
 ```
 ### CNN Model
 <div align=center><img width="900" height="1200" src=https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png/></div>
