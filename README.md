@@ -20,7 +20,7 @@ recognize handwriting number with CNN model (dataset : MNIST)
 5. If the number is true, it will be saved in `Image/True`. In contrast, it will be saved in `Image/Wrong`
 
 ### Model
-* [CNN](model/README.md)
+* [CNN(Convolutional Neural Network)](model/README.md)
 
 ### Requirement
 |Package|Version|
