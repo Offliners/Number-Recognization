@@ -23,3 +23,6 @@ recognize handwriting number with CNN model (dataset : MNIST)
 |Numpy|`1.16.2`|
 |Pygame|`1.9.6`|
 |Tkinter|`8.6`|
+
+### Reference
+https://github.com/techwithtim/Number-Guesser-Neural-Net
