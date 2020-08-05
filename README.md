@@ -34,11 +34,10 @@ recognize handwriting number with CNN model (dataset : MNIST)
 
 ## Example
 ### Wrong
-![wrong1](https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_28_55_prediction.png)
-
+![wrong](https://github.com/Offliners/Number-Recognization/blob/master/Example/2020_08_06_04_28_55_prediction.png)
 
 ### True
-
+![True](https://github.com/Offliners/Number-Recognization/blob/master/Example/2020_08_06_04_16_45_prediction.png)
 
 ## Reference
 https://github.com/techwithtim/Number-Guesser-Neural-Net
