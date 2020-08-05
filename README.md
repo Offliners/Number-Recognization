@@ -34,9 +34,7 @@ recognize handwriting number with CNN model (dataset : MNIST)
 
 ## Example
 ### Wrong
-<figure class="half">
-    <img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_28_55_prediction.png"/><img src="https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_34_40_prediction.png"/>
-</figure>
+![wrong1](https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_28_55_prediction.png)![wrong2](https://github.com/Offliners/Number-Recognization/blob/master/Image/Wrong/2020_08_06_04_34_40_prediction.png)
 
 ### True
 <figure class="half">
