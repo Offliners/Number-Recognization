@@ -11,6 +11,13 @@ recognize handwriting number with CNN model (dataset : MNIST)
 ├─├─True  // Identify handwriting number correctly
 ├─├─Wrong  // Identify handwriting number wrongly
 ```
+
+### Usage
+1. Run `main.py` to train model (also you can use the model weight that has trained)
+2. Rum `drawingBoard.py` to write a number
+3. After writing the number, press enter
+4. AI will recognize the number
+
 ### CNN Model
 <div align=center><img width="900" height="1200" src=https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png/></div>
 
