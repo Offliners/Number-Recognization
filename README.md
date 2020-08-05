@@ -1,6 +1,16 @@
 # Number Recognization
 recognize handwriting number with CNN model (dataset : MNIST)
 
+### Directory
+```
+├─model
+├─├─loss
+├─├─accuracy
+├─├─weight
+├─Image
+├─├─True
+├─├─Wrong
+```
 ### CNN Model
 <div align=center><img width="900" height="1200" src=https://github.com/Offliners/Number-Recognization/blob/master/CNN_model.png/></div>
 
