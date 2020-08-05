@@ -6,4 +6,4 @@
 ![loss](https://github.com/Offliners/Number-Recognization/blob/master/model/loss/loss.png)
 
 ### Accuracy
-![acc]()
+![acc](https://github.com/Offliners/Number-Recognization/blob/master/model/accuracy/accuracy.png)
