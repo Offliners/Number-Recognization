@@ -39,5 +39,7 @@ recognize handwriting number with CNN model (dataset : MNIST)
 ### True
 ![True](https://github.com/Offliners/Number-Recognization/blob/master/Example/2020_08_06_04_16_45_prediction.png)
 
+## DEMO
+![demo](https://github.com/Offliners/Number-Recognization/blob/master/Example/demo.gif)
 ## Reference
 https://github.com/techwithtim/Number-Guesser-Neural-Net
